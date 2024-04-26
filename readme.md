@@ -9,7 +9,7 @@ A pendulum is a weight suspended from a pivot that can swing freely. It demonstr
 ## Task Outline:
 
 ### Explanation of a Single Pendulum:
-Describe what a pendulum is.
+- Describe what a pendulum is.
 - Explain the basic physics behind a single pendulum.
 - Present the differential equations that govern the motion of a simple pendulum.
 - Discuss solutions to the single pendulum, focusing on small-angle approximations and the role of gravity.
