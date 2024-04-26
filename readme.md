@@ -37,8 +37,4 @@ Describe what a pendulum is.
 - Reflect on any challenges faced during the project and how they were overcome.
 
 Deliverables:
-Include the entire project in a wolfram notebook created on [https://www.wolframcloud.com/](Wolfram Cloud)
-Deadline: [Specify the deadline for project submission]
-
-If you have any questions or need further guidance, feel free to ask. Good luck with your project, and have fun exploring the dynamics of pendulums!
-
+Include the entire project in a Wolfram Mathematica notebook created on [Wolfram Cloud](https://www.wolframcloud.com/)
